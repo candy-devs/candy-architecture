@@ -47,7 +47,10 @@
 - Session
 
   ![Session](https://user-images.githubusercontent.com/9719650/177559067-63c704a6-502b-4047-a32d-db8f56b50a0b.jpg)
+  
+- JWT (external API)
 
+  ![JWT external API](https://user-images.githubusercontent.com/9719650/177562065-a4493608-6bbf-4e7b-b2f6-e28cfc39f9ef.jpg)
 
 
 #### Image Resize App
