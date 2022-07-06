@@ -44,14 +44,14 @@
   
   ![OAuth](https://user-images.githubusercontent.com/9719650/177562962-981d31e6-545c-4e57-9847-b1fed46bcd7e.jpg)
 
-  
 - Session
 
   ![Session](https://user-images.githubusercontent.com/9719650/177559067-63c704a6-502b-4047-a32d-db8f56b50a0b.jpg)
   
 - JWT (external API)
 
-  ![JWT external API](https://user-images.githubusercontent.com/9719650/177562065-a4493608-6bbf-4e7b-b2f6-e28cfc39f9ef.jpg)
+  ![JWT external API](https://user-images.githubusercontent.com/9719650/177564115-76897ac7-0259-4c3d-b144-2840e8a5f0ba.jpg)
+
 
 
 #### Image Resize App
