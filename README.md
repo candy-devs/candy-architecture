@@ -50,9 +50,7 @@
   
 - JWT (external API)
 
-  ![JWT external API](https://user-images.githubusercontent.com/9719650/177564115-76897ac7-0259-4c3d-b144-2840e8a5f0ba.jpg)
-
-
+  ![JWT external API](https://user-images.githubusercontent.com/9719650/177564783-10bcaf31-cb92-4ffc-9d82-f9ebbd00bc6e.jpg)
 
 #### Image Resize App
 
@@ -66,3 +64,7 @@
  - [ ] Node.js 기반 Sharp App
  - [ ] Node.js 기반 Image Proxy App (Sharp App이랑 통합가능한가?)
    - [ ] CDN Fail시 CDN 적재 (LRU)
+
+#### Article Search App
+
+ - [ ] 구현 계획 
