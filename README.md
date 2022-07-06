@@ -14,11 +14,37 @@
    - [x] CI/CD Script 작성
    - [ ] Ansible Script 작성
    
- - [ ] Kubernates
+ - [ ] Kubernates 공부
    - [ ] Service Mesh: Istio
    
+ - [ ] Apps
+   - [ ] Spring Backend Deployment
+   - [ ] Image Resize Server
 
 ### Database
 
  - [ ] PostgreSQL, LLVM Jit을 통한 쿼리 튜닝
  - [ ] Redis, MongoDB를 통한 정적 자료 캐시 및 조회 제공
+ 
+### Ingress
+
+ - [ ] API
+   - [ ] API Server: http://server/api/v1/
+ - [ ] Static
+   - [ ] Image Serving: http://cdn/img/url.ext
+   - [ ] Raw Image Serving: http://server/static/raw/from/s3.ext
+ 
+### Micro Apps
+
+#### Image Resize App
+
+![Resize](https://user-images.githubusercontent.com/9719650/177554309-a15826a2-cfe1-40f8-bf1c-97ed5605c1d4.jpg)
+
+트래픽을 줄이기 위한 이미지 리사이징
+
+ - [x] S3 Presigned Image URL
+ - [ ] S3 Raw Image Upload (front)
+ - [ ] SQS 연동
+ - [ ] Node.js 기반 Sharp App
+ - [ ] Node.js 기반 Image Proxy App (Sharp App이랑 통합가능한가?)
+   - [ ] CDN Fail시 CDN 적재 (LRU)
