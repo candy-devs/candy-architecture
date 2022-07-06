@@ -42,8 +42,9 @@
 
 - OAuth2.0
   
-  ![OAuth](https://user-images.githubusercontent.com/9719650/177559376-fd42d28f-fea8-434d-ad91-3cb0019fe7e1.jpg)
+  ![OAuth](https://user-images.githubusercontent.com/9719650/177562962-981d31e6-545c-4e57-9847-b1fed46bcd7e.jpg)
 
+  
 - Session
 
   ![Session](https://user-images.githubusercontent.com/9719650/177559067-63c704a6-502b-4047-a32d-db8f56b50a0b.jpg)
