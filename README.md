@@ -72,3 +72,7 @@
 #### Hot Article Picker App
 
  - [ ] 구현 
+
+#### Hot Tag Picker App
+
+ - [ ] 구현 
