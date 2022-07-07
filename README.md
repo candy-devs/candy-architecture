@@ -68,3 +68,7 @@
 #### Article Search App
 
  - [ ] 구현 계획 
+
+#### Hot Article Picker App
+
+ - [ ] 구현 
