@@ -1,4 +1,9 @@
-# candy-micro-services-plan
+# candy-architecture
+
+캔디 개발 노트
+
+ - Fronet-end: Next.js
+ - Back-end: Spring Boot, Node.js, Python3
 
 ## Backend
 
