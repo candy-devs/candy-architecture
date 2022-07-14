@@ -48,6 +48,11 @@
 - OAuth2.0
   
   ![OAuth](https://user-images.githubusercontent.com/9719650/177562962-981d31e6-545c-4e57-9847-b1fed46bcd7e.jpg)
+  
+  1. [Backend] Redirect to `/oauth2/authorization/[naver|kakao|facebook|google]`
+  2. [Client] Login and Authorization on OAuth2.0 Provider
+  3. [Backend] Redirect to `/login/oauth2/code/[naver|kakao|facebook|google]?state,code,scope`
+  4. [Front] Redirect to `/` 
 
 - Session
 
