@@ -72,7 +72,12 @@
 
 #### Article Search App
 
- - [ ] 구현 계획 
+![Article Search](https://user-images.githubusercontent.com/9719650/178878037-7cbd0337-ddab-4537-950c-17bb6e12f909.png)
+
+ - [ ] Elastic Search에 넣는다.
+ - [ ] 수정 요청이 들어오면 수정 사항을 반영한다.
+ - [ ] 삭제 요청이 들어오면 해당 Article를 ES에서 삭제한다.
+ - [ ] 검색 요청이 들어오면 검색한다.
 
 #### Hot Article Picker App
 
