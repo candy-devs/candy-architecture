@@ -3,7 +3,7 @@
 캔디 개발 노트
 
  - Fronet-end: Next.js
- - Back-end: Spring Boot, Node.js, Python3
+ - Back-end: Spring Boot, Node.js, Python3, Go
 
 ## Backend
 
@@ -25,6 +25,21 @@
  - [ ] Apps
    - [ ] Spring Backend Deployment
    - [ ] Image Resize Server
+   
+ - [ ] Spring Cloud 적용
+   - [ ] Service Divide
+     - [ ] 유저, 커뮤니티 Read, Write 서버 분리 (예정)
+     - [ ] 로드 테스트로 분리 근거 남기기
+   - [x] Spring Boot Actuator
+   - [ ] Spring Cloud Config
+   - [ ] Spring Cloud Netflix Eureka
+     - [ ] Spring Cloud Load Balancer Client
+   - [ ] Spring Cloud Resilience4j
+   - [ ] Spring Cloud Gateway
+   - [ ] Spring Cloud Stream (Kafka)
+   
+ - [ ] ELK Logging 스택 구축
+   - [ ] Micro Service App 프로젝트 Id 규칙 및 로깅 전략 설계
 
 ### Database
 
